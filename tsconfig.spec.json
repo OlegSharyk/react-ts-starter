@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig",
+  "compilerOptions": {
+    "rootDir": "src"
+  },
+  "include": [
+    "typings",
+    "src",
+    "__tests__"
+  ]
+}
